@@ -1,0 +1,21 @@
+body {
+    background: rgb(231, 231, 231);
+    background-image: url('https://cdn.forbes.co/2021/04/Bancolombia-1280x720-1.jpg');
+    }
+
+
+#pantalla{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-header {
+    background-color: black;
+}
+
+
+div.card-footer{
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+}
